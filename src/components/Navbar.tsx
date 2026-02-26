@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="flex items-center gap-6 text-gold-light">
             <span className="flex items-center gap-1.5">
               <Phone className="w-3.5 h-3.5" />
-              +91 XXXXX XXXXX
+              +91 99360-58220
             </span>
             <span className="flex items-center gap-1.5">
               <MapPin className="w-3.5 h-3.5" />
