@@ -19,8 +19,8 @@ const ContactSection = () => {
           <div className="space-y-6">
             {[
               { icon: MapPin, title: "पता", info: "बाड़ापुर रोड, अकबरपुर, कानपुर देहात, उत्तर प्रदेश" },
-              { icon: Phone, title: "फ़ोन", info: "+91 XXXXX XXXXX" },
-              { icon: Mail, title: "ईमेल", info: "sultanagency@email.com" },
+              { icon: Phone, title: "फ़ोन", info: "+91 99360-58220" },
+              { icon: Mail, title: "वेबसाइट", info: "www.sultanagency.in" },
               { icon: Clock, title: "समय", info: "सोमवार - शनिवार: सुबह 9 बजे - रात 8 बजे" },
             ].map((c, i) => (
               <div key={i} className="flex gap-4 items-start p-4 rounded-xl bg-card border border-border">
